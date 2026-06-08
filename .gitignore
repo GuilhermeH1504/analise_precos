@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.cache
+*.log
+.ipynb_checkpoints/
+.DS_Store
+*.sqlite3
+*.db
+*.sqlite
+*.env
+.venv/
+
+# Playwright browser artifacts
+playwright/.local-browsers/
+
+# Output files
+*.json
+*.csv
+
+# JetBrains
+.idea/
